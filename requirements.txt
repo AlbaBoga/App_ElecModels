@@ -4,3 +4,4 @@ numpy
 pycaret
 scikit-learn
 tensorflow
+xgboost
