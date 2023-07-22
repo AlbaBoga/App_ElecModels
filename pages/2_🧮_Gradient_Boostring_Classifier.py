@@ -293,7 +293,6 @@ if st.button('Volver 👈'):
 
 
 #--------------------------------------SIDEBAR-------------------------------------#
-st.sidebar.markdown("""---""")
 image1 = Image.open(r'img/logo.png')
 st.sidebar.image(image1)
 #--------------------------------------SIDEBAR-------------------------------------#

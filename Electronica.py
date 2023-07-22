@@ -61,5 +61,6 @@ Se ha obtenido una lista con más de 7000 registros de visitas a productos elect
 #--------------------------------------SIDEBAR-------------------------------------#
 image1 = Image.open(r'img/logo.png')
 st.sidebar.image(image1)
-
+st.sidebar.markdown("""Logo: ``Vecteezy.com``""")
+st.sidebar.markdown("""Todas las imágenes de cabecera: ``canva.com``""")
 #--------------------------------------SIDEBAR-------------------------------------#
